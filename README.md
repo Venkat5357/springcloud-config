@@ -1,2 +1,2 @@
 # springcloud-config
-Spring Cloud Config Server
+Spring Cloud Config Servers
